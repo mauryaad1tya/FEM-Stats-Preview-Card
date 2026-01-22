@@ -17,7 +17,6 @@ body{
 }
 
 .container{
-    border: solid 1px red;
     width: 1100px;
     height: 446px;
     display: flex;
